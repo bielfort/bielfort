@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Belfort, bem vindo ao meu github!
+## <a align="center">Oiii eu sou o Gabriel Belfort, bem vindo ao meu github!</a>
 <div align="center">
   <a href="https://github.com/bielfort">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielfort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/bielfort" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/bielfortv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
