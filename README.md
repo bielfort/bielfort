@@ -1,4 +1,4 @@
-## <a align="center">Oiii eu sou o Gabriel Belfort, bem vindo ao meu github!</a>
+## <div align="center">Oiii eu sou o Gabriel Belfort, bem vindo ao meu github!</div>
 <div align="center">
   <a href="https://github.com/bielfort">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielfort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
